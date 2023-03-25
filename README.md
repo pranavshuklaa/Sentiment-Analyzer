@@ -1,10 +1,6 @@
 <h1 align="center">
   Sentiment Analyzer
 </h1>
-
-<div >
-   <strong>Sentiment Analyzer</strong><br>
-   <br> <br>
   
 <hr>
 
