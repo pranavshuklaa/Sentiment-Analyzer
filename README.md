@@ -1,8 +1,6 @@
 <h1 align="center">
   Sentiment Analyzer
 </h1>
-  
-<hr>
 
 ## 📝Description
 
